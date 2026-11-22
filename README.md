@@ -24,3 +24,4 @@ todo-app/
 - Edit a task by double-clicking it
 - Add due dates
 - Add a "Clear completed" button
+- This was Easy
